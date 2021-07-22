@@ -1,0 +1,28 @@
+{
+  "ideas": [
+    {
+      "idea": "Todo List App",
+      "level": "Beginner to Intermediate"
+    },
+    {
+      "idea": "Pomodoro Timer",
+      "level": "Beginner to Intermediate"
+    },
+    {
+      "idea": "Tic Tac Toe",
+      "level": "Intermediate to Advanced"
+    },
+    {
+      "idea": "Stock Tracking App",
+      "level": "Intermediate to Advanced"
+    },
+    {
+      "idea": "AI Chatbot",
+      "level": "Advanced"
+    },
+    {
+      "idea": "Operating System",
+      "level": "Advanced"
+    }
+  ]
+}

@@ -4,6 +4,7 @@
     <p>Hub of coding ideas</p>
     <h2>Your random coding idea is</h2>
     <p class="idea">{{ idea }}</p>
+    <p class="idea-level">Level: {{ ideaLevel }}</p>
   </center>
 </template>
 
