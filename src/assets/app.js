@@ -32,5 +32,8 @@ export default {
     submitIdea() {
       this.showSubmitModal = true;
     },
+    closeModal() {
+      this.showSubmitModal = false;
+    },
   },
 };

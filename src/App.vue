@@ -1,6 +1,10 @@
 <template>
   <center>
-    <SubmitIdea class="submit-modal" v-if="showSubmitModal" />
+    <SubmitIdea
+      class="submit-modal"
+      v-if="showSubmitModal"
+      @closeModal="closeModal"
+    />
     <h1>Idea Hub</h1>
     <p>Hub of coding ideas</p>
     <h2>Your random coding idea is</h2>
