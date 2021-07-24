@@ -2,27 +2,33 @@
   "ideas": [
     {
       "idea": "Todo List App",
-      "level": "Beginner to Intermediate"
+      "level": "Beginner",
+      "by": "Darsh Gupta, Creator"
     },
     {
       "idea": "Pomodoro Timer",
-      "level": "Beginner to Intermediate"
+      "level": "Beginner",
+      "by": "Darsh Gupta, Creator"
     },
     {
       "idea": "Tic Tac Toe",
-      "level": "Intermediate to Advanced"
+      "level": "Intermediate",
+      "by": "Darsh Gupta, Creator"
     },
     {
       "idea": "Stock Tracking App",
-      "level": "Intermediate to Advanced"
+      "level": "Intermediate",
+      "by": "Darsh Gupta, Creator"
     },
     {
       "idea": "AI Chatbot",
-      "level": "Advanced"
+      "level": "Advanced",
+      "by": "Darsh Gupta, Creator"
     },
     {
       "idea": "Operating System",
-      "level": "Advanced"
+      "level": "Advanced",
+      "by": "Darsh Gupta, Creator"
     }
   ]
 }
